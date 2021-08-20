@@ -17,7 +17,7 @@ Dentro de uma arquitetura de **micro-serviços** e **serverless**, precisamos de
 	- É preciso fazer uso de serverless (preferencialmente Firebase ou GCP)
 	- Deve haver pelo menos 3 testes unitários com JEST
 	- Deve haver tratamento centralizado de eventuais erros, usando os padrões HTTP
-	- Os dados devem ser persistidos em um banco NoSQL, preferencialmente Firebase Firestore (NoSQL database da Google)
+	- Os dados devem ser persistidos em um banco NoSQL, preferencialmente Firebase Firestore
 ### Entrega
 	- Um repositório GitHub
 	- Um ambiente rodando a aplicação

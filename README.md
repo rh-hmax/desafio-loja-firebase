@@ -1,6 +1,6 @@
 # Criação de API
 ## História
-Dentro de uma arquitetura de **micro-serviços** e **serverless**, precisamos de uma API para cadastro de produtos para uma loja.
+Dentro de uma arquitetura de **micro-serviços** e **serverless**, precisamos de uma API para cadastro de produtos para uma loja de peças de para automóveis.
 
 ### Requisitos funcionais
 	- Como gerente gostaria de adicionar um novo produto ao catálogo da loja

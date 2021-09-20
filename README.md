@@ -12,11 +12,11 @@ Dentro de uma arquitetura de **micro-serviços** e **serverless**, precisamos de
 	- Como gerente quero que apenas pessoas com permissão possam: adicionar, editar remover produtos
 	- Como cliente quero visualizar um produto
 ### Requisitos não funcionais
+	- A API precisa estar em uma estrutura serverless (Firebase ou GCP)
 	- A API deve usar NodeJS com Typescript
 	- A API deve seguir um padrão REST
-	- É preciso fazer uso de serverless (preferencialmente Firebase ou GCP)
 	- Deve haver pelo menos 3 testes unitários com JEST
-	- Deve haver tratamento centralizado de eventuais erros, usando os padrões HTTP
+	- Deve haver tratamento centralizado de erros, usando os padrões HTTP
 	- Os dados devem ser persistidos em um banco NoSQL, preferencialmente Firebase Firestore
 ### Entrega
 	- Um repositório GitHub
